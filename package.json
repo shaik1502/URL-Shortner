@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shaik1502/URL-Shortner/issues"
   },
-  "homepage": "https://github.com/shaik1502/URL-Shortner#readme"
+  "homepage": "https://github.com/shaik1502/URL-Shortner#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
